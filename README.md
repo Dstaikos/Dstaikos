@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Diogenis Staikos
+Diogenis Staikos
 
 ![C](https://img.shields.io/badge/language-C-00599C)
 ![Go](https://img.shields.io/badge/language-Go-00ADD8)
@@ -19,7 +19,7 @@
 Here are some of my highlighted repositories:
 
 ### CEID C Exercises
-**Repo:** [`CEID-C-Exercises`](https://github.com/Dstaikos/CEID-C-Exercises)  
+**Repo:** [`Ceid-projects`](https://github.com/Dstaikos/Ceid-projects)  
 **Description:** Collection of C programming exercises for CEID coursework. Covers arrays, strings, structs, recursion, and file handling.
 
 ### Go Reloaded
@@ -37,9 +37,10 @@ Here are some of my highlighted repositories:
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
-![Dstaikos GitHub stats](https://github-readme-stats.vercel.app/api?username=Dstaikos&show_icons=true&theme=blue-green&count_private=true)
+![Dstaikos's GitHub contributions](https://github-readme-activity-graph.vercel.app/graph?username=Dstaikos&theme=react-dark)
+
 
 ---
 
