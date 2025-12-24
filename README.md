@@ -1,4 +1,4 @@
-Diogenis Staikos
+# Diogenis Staikos
 
 ![C](https://img.shields.io/badge/language-C-00599C)
 ![Go](https://img.shields.io/badge/language-Go-00ADD8)
@@ -8,8 +8,12 @@ Diogenis Staikos
 
 ## About Me
 
-💼 **Computer Engineering & Informatics Department(CEID) Student at the University of Patras | Zone 01 Cohort**  
-🌱 Aspiring Software Developer 
+💼 **Student at the University of Patras**  
+🏛️ **Computer Engineering & Informatics Department (CEID)**  
+🎓 **Zone 01 Cohort**  
+
+🌱 Aspiring Software Developer  
+
 📫 Reach me at: **diogenisstaikos@gmail.com**  
 
 ---
@@ -39,11 +43,11 @@ Here are some of my highlighted repositories:
 
 ## GitHub Activity
 
-![Dstaikos's GitHub contributions](https://github-readme-activity-graph.vercel.app/graph?username=Dstaikos&theme=react-dark)
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dstaikos&theme=green-eco" alt="Dstaikos's GitHub contributions" />
+</p>
 
 ---
-
 
 
 
