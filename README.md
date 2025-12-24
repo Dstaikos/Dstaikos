@@ -15,21 +15,6 @@
 
 ---
 
-## Featured Projects
-
-Here are some of my highlighted repositories:
-
-### CEID C Exercises
-**Repo:** [`Ceid-projects`](https://github.com/Dstaikos/Ceid-projects)  
-**Description:** Collection of C programming exercises for CEID coursework. Covers arrays, strings, structs, recursion, and file handling.
-
-### Go Reloaded
-**Repo:** [`go-reloaded`](https://github.com/Dstaikos/go-reloaded)  
-**Description:** Command-line tool written in Go for text transformations and utilities. 
-
-> More projects will be added as I progress in my studies.
-
----
 
 ## 🛠 Tech Stack
 
