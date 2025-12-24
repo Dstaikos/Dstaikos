@@ -31,18 +31,5 @@
 </p>
 
 
-## GitHub Activity & Stats
-
-<!-- GitHub Profile Trophy -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dstaikos&theme=darkhub" alt="Dstaikos's GitHub trophies" />
-</p>
-
-<!-- GitHub Contributions Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dstaikos&theme=react-dark&hide_title=false&hide_border=false&custom_title=GitHub%20Commits" alt="Dstaikos's GitHub contributions" />
-</p>
-
-
 
 
