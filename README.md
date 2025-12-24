@@ -1,10 +1,5 @@
 # Diogenis Staikos
 
-![C](https://img.shields.io/badge/language-C-00599C)
-![Go](https://img.shields.io/badge/language-Go-00ADD8)
-![Python](https://img.shields.io/badge/language-Python-3776AB)
-
----
 
 ## About Me
 
@@ -36,7 +31,7 @@ Here are some of my highlighted repositories:
 
 ---
 
-## Skills & Tools
+## 🛠 Tech Stack
 
 - **Languages:** C, Go, Python  
 - **Tools:** Git, GCC, CLI tools  
