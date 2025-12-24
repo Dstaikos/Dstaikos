@@ -9,7 +9,9 @@
 ## About Me
 
 💼 **Student at the University of Patras**  
+
 🏛️ **Computer Engineering & Informatics Department (CEID)**  
+
 🎓 **Zone 01 Cohort**  
 
 🌱 Aspiring Software Developer  
@@ -44,7 +46,7 @@ Here are some of my highlighted repositories:
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dstaikos&theme=green-eco" alt="Dstaikos's GitHub contributions" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dstaikos&theme=react-dark&hide_border=false&custom_title=GitHub%20Commits%20-%20Last%2012%20Months" alt="Dstaikos's GitHub contributions" />
 </p>
 
 ---
