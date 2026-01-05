@@ -25,9 +25,8 @@
 # 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dstaikos&theme=react-dark&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dstaikos&theme=github-light&color=40c463&line=40c463&point=40c463&area=true&hide_border=true" width="100%" />
 </p>
-
 
 ---
 
@@ -37,5 +36,4 @@
 <a href="https://www.linkedin.com/in/diogenis-staikos-b77901301/" target="_blank">LinkedIn</a> • 
 <a href="mailto:diogenisstaikos@gmail.com">Email</a>
 </p>
-
 
