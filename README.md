@@ -16,7 +16,7 @@
 
 ## 🛠 Tech Stack
 
-- **Languages:** C, Go, Python  
+- **Languages:** C, Go, Python, java, javascript
 - **Tools:** Git, GCC, CLI tools  
 
 ---
